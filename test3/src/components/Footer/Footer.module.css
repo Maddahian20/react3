@@ -1,0 +1,47 @@
+footer{
+    display: inline-flex;
+    width: 100%;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(163, 137, 105);
+    }
+table{
+    display: inline-flex;
+}
+tr th{
+    padding-left:100px; 
+    font-size: xx-large;
+   
+}
+tr td {
+display: flex;
+    padding-left:100px;
+}
+footer a{text-decoration: none;
+        color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+  .social{
+    display: inline-flex;
+       }
+ul li{
+    display:inline-flex;
+    margin-right: 6px;
+    font-size: x-large;
+}
+#facebook{
+    color: rgb(48, 48, 77);
+}
+#twiter{
+    color: rgb(84, 124, 164);
+}
+#youtube{
+    color: rgb(110, 22, 5);
+}
+#instagram{
+    color: rgb(177, 89, 17);
+}
